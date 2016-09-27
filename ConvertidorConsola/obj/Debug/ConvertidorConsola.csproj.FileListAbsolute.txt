@@ -1,0 +1,8 @@
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\bin\Debug\Magick.NET-Q16-x64.Native.dll
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\bin\Debug\ConvertidorConsola.exe
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\bin\Debug\ConvertidorConsola.pdb
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\bin\Debug\Magick.NET-Q16-x64.dll
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\bin\Debug\Magick.NET-Q16-x64.xml
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\obj\Debug\ConvertidorConsola.csprojResolveAssemblyReference.cache
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\obj\Debug\ConvertidorConsola.exe
+c:\users\bioxor\documents\visual studio 2013\Projects\ConvertidorConsola\ConvertidorConsola\obj\Debug\ConvertidorConsola.pdb
